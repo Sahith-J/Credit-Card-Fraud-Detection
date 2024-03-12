@@ -12,7 +12,7 @@ The dataset used for this project can be downloaded from Kaggle. Please follow t
 
 ## Notebook
 
-The notebook "CodeClause-Credit-Card-Fraud-Detection.ipynb" provides the code and step-by-step analysis for credit card fraud detection. It includes the following sections:
+The notebook "Credit-Card-Fraud-Detection.ipynb" provides the code and step-by-step analysis for credit card fraud detection. It includes the following sections:
 
 1. Data Exploration and Preprocessing
 2. Feature Selection and Engineering
